@@ -1,0 +1,12 @@
+.center {
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+}
+
+.myUL {
+    display: inline-block;
+    text-align: left;
+}
